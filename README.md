@@ -5,7 +5,7 @@
 
 ## Team Members:
 
-1. Aadi Nag [@aadinag-uga]((https://github.com/aadinag-uga))
+1. Aadi Nag [@aadinag-uga](https://github.com/aadinag-uga)
 2. Sam Greenspan [@SamGreenspan1](https://github.com/SamGreenspan1)
 3. Chase Lessing [@chase-aquaz18](https://github.com/chase-aquaz18)
 4. Sam Kooran[@samuel4610](https://github.com/samuel4610)
